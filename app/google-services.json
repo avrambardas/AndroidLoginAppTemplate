@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269133988072",
+    "project_id": "topit-81322",
+    "storage_bucket": "topit-81322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269133988072:android:d4e2bb65e05254aa85095d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269133988072-q6ibgl51dsv8vkuqm72jet6mqlv0ni12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWt_pPYEY3gKsK3fhQPbyii4AVUCSmknQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269133988072-q6ibgl51dsv8vkuqm72jet6mqlv0ni12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
